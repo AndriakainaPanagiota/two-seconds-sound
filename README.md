@@ -1,2 +1,2 @@
 # Two-seconds-sound
-<audio src="audio.mp3" controls preload></audio>
+<audio src="2 sec_mixdown.wav" controls preload></audio>
