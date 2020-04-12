@@ -1,3 +1,3 @@
 # Two-seconds-sound
 
-![Sample Audio](img/markdown_2 sec_mixdown.wav)
+![Sample Audio](./markdown_2 sec_mixdown.wav)
