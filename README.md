@@ -1,2 +1,3 @@
 # Two-seconds-sound
-<audio src="2 sec_mixdown.wav" controls preload></audio>
+
+![Sample Audio](img/markdown_2 sec_mixdown.wav)
