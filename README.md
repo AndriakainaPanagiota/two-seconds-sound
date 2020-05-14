@@ -35,4 +35,4 @@
 πρόσθεσα τους θιβετιανούς ήχους σαν μια ευχή προς τον άνθρωπο που πάσχει.
 
 
-[Audio](/One_Minute.wav)
+[One Minute Audio](/One_Minute.wav)
