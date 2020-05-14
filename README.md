@@ -35,4 +35,8 @@
 πρόσθεσα τους θιβετιανούς ήχους σαν μια ευχή προς τον άνθρωπο που πάσχει.
 
 
-![Sample Audio](img/markdown_2 sec_mixdown.wav)
+<audio controls="controls">
+  <source type="audio/mp3" src="./One_Minute.wav"></source>
+  <source type="audio/ogg" src="./One_Minute.ogg"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
